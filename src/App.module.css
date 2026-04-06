@@ -1,0 +1,29 @@
+/* Dark fintech theme */
+
+.container {
+  min-height: 100vh;
+  background: #0f172a; /* dark navy */
+  color: #e2e8f0;
+  padding: 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.select {
+  padding: 8px;
+  border-radius: 8px;
+  background: #1e293b;
+  color: white;
+  border: none;
+}
