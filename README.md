@@ -89,6 +89,13 @@ npm run dev
 * Dark/Light mode toggle
 * Advanced analytics
 * Backend integration
+## Deployment Note
+
+The application is successfully deployed and accessible via the live link below.
+
+Due to environment-specific build inconsistencies on automated deployment platforms, the final production deployment was completed using a verified build output to ensure reliability.
+
+Live Demo:  https://finance-dashboard-lemon-three.vercel.app 
 
 ---
 
