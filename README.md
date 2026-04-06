@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Dashboard
 
 ## Overview
@@ -95,3 +96,6 @@ npm run dev
 ## Author
 
 Aseem Anand
+=======
+# Finance-Dashboard-UI
+>>>>>>> 8f25b0d6cb41b51c47283e0aee88073188682a43
